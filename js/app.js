@@ -6,7 +6,7 @@ const vid = document.querySelector("video");
 let count = 2;
 
 const gifs = [
-  "../resources/img1.gif",
+  "../resources/img1.jpg",
   "../resources/img2.gif",
   "../resources/img3.gif",
   "../resources/img4.gif",
