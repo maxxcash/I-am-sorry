@@ -58,7 +58,7 @@ yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "../resources/img5.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
   text.innerHTML = "Knew you'd say yes meri jaan 😘";
-  yes.innerHTML = '<a href="https://www.instagram.com/themaxxcash/">Message me</a>';// inside the " " put your social media profile link
+  yes.innerHTML = '<a href="https://www.snapchat.com/add/whymaazshaikh?share_id=zu2UVUd9cuo&locale=en-US">Message me</a>';// inside the " " put your social media profile link
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
